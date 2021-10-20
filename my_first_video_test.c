@@ -47,9 +47,8 @@ int main(int argc,char* argv[]){
 
 /*
 
-akshay@akshay-ThinkPad-L570-W10DG:~/video_module/akshay$ make
-gcc -Iinclude/linux    my_first_video_test.c   -o my_first_video_test
-akshay@akshay-ThinkPad-L570-W10DG:~/video_module/akshay$ ./my_first_video_test 
+akshay@akshay-ThinkPad-L570-W10DG:~/video_module/akshay$ ./run_1.sh 
+
 
 Calling the open function
 
@@ -58,7 +57,6 @@ Video opened successfully
 SUCCESSFULLY OPENED
 
 Closed the sesion
-akshay@akshay-ThinkPad-L570-W10DG:~/video_module/akshay$ 
 
 
 
