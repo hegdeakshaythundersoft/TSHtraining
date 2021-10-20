@@ -153,6 +153,57 @@ int main(int argc,char* argv[]){
 /*
 
 
+new kernel space log :
+
+
+
+
+akshay@akshay-ThinkPad-L570-W10DG:~/video_module/akshay$ ./run_3.sh 
+
+
+Calling the open function
+
+Video opened successfully
+
+In the open function : VIDEOC_QERYCAP
+Device /dev/video0 opened: Integrated Camera: Integrated C (usb-0000:00:14.0-7).
+
+SUCCESSFULLY OPENED
+Setting the format
+video_set_format:VIDIOC_G_FMT
+Video format set: width: 640 height: 480 buffer size: 614400
+
+Closed the sesion
+
+
+[12707.904940] video0: VIDIOC_QUERYCAP: driver=uvcvideo, card=Integrated Camera: Integrated C, bus=usb-0000:00:14.0-7, version=0x00050b16, capabilities=0x84a00001, device_caps=0x04200001
+[12707.905190] video0: VIDIOC_G_FMT: type=vid-cap, width=640, height=480, pixelformat=YUYV, field=none, bytesperline=1280, sizeimage=614400, colorspace=8, flags=0x0, ycbcr_enc=1, quantization=0, xfer_func=1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+old log : userspace 
 akshay@akshay-ThinkPad-L570-W10DG:~/video_module/akshay$ ./test_app_4 
 
 Calling the open function

@@ -454,49 +454,49 @@ video_alloc_buffers:VIDIOC_REQBUFS
 15 buffers requested.
 video_alloc_buffers:VIDIOC_QUERYBUF
 length: 614400 offset: 0
-Buffer 0 mapped at address 0x7f3e6170f000.
+Buffer 0 mapped at address 0x7fc05f595000.
 video_alloc_buffers:VIDIOC_QUERYBUF
 length: 614400 offset: 614400
-Buffer 1 mapped at address 0x7f3e61679000.
+Buffer 1 mapped at address 0x7fc05f4ff000.
 video_alloc_buffers:VIDIOC_QUERYBUF
 length: 614400 offset: 1228800
-Buffer 2 mapped at address 0x7f3e615e3000.
+Buffer 2 mapped at address 0x7fc05f469000.
 video_alloc_buffers:VIDIOC_QUERYBUF
 length: 614400 offset: 1843200
-Buffer 3 mapped at address 0x7f3e6154d000.
+Buffer 3 mapped at address 0x7fc05f3d3000.
 video_alloc_buffers:VIDIOC_QUERYBUF
 length: 614400 offset: 2457600
-Buffer 4 mapped at address 0x7f3e614b7000.
+Buffer 4 mapped at address 0x7fc05f33d000.
 video_alloc_buffers:VIDIOC_QUERYBUF
 length: 614400 offset: 3072000
-Buffer 5 mapped at address 0x7f3e61421000.
+Buffer 5 mapped at address 0x7fc05f2a7000.
 video_alloc_buffers:VIDIOC_QUERYBUF
 length: 614400 offset: 3686400
-Buffer 6 mapped at address 0x7f3e6138b000.
+Buffer 6 mapped at address 0x7fc05f211000.
 video_alloc_buffers:VIDIOC_QUERYBUF
 length: 614400 offset: 4300800
-Buffer 7 mapped at address 0x7f3e612f5000.
+Buffer 7 mapped at address 0x7fc05f17b000.
 video_alloc_buffers:VIDIOC_QUERYBUF
 length: 614400 offset: 4915200
-Buffer 8 mapped at address 0x7f3e6125f000.
+Buffer 8 mapped at address 0x7fc05f0e5000.
 video_alloc_buffers:VIDIOC_QUERYBUF
 length: 614400 offset: 5529600
-Buffer 9 mapped at address 0x7f3e611c9000.
+Buffer 9 mapped at address 0x7fc05f04f000.
 video_alloc_buffers:VIDIOC_QUERYBUF
 length: 614400 offset: 6144000
-Buffer 10 mapped at address 0x7f3e61133000.
+Buffer 10 mapped at address 0x7fc05efb9000.
 video_alloc_buffers:VIDIOC_QUERYBUF
 length: 614400 offset: 6758400
-Buffer 11 mapped at address 0x7f3e6109d000.
+Buffer 11 mapped at address 0x7fc05ef23000.
 video_alloc_buffers:VIDIOC_QUERYBUF
 length: 614400 offset: 7372800
-Buffer 12 mapped at address 0x7f3e61007000.
+Buffer 12 mapped at address 0x7fc05ee8d000.
 video_alloc_buffers:VIDIOC_QUERYBUF
 length: 614400 offset: 7987200
-Buffer 13 mapped at address 0x7f3e60f71000.
+Buffer 13 mapped at address 0x7fc05edf7000.
 video_alloc_buffers:VIDIOC_QUERYBUF
 length: 614400 offset: 8601600
-Buffer 14 mapped at address 0x7f3e60edb000.
+Buffer 14 mapped at address 0x7fc05ed61000.
 video_queue_buffer:VIDIOC_QBUF
 video_queue_buffer:VIDIOC_QBUF
 video_queue_buffer:VIDIOC_QBUF
@@ -513,6 +513,104 @@ video_queue_buffer:VIDIOC_QBUF
 video_queue_buffer:VIDIOC_QBUF
 video_queue_buffer:VIDIOC_QBUF
 test_video_close
+
+
+[12771.270219] video0: VIDIOC_QUERYCAP: driver=uvcvideo, card=Integrated Camera: Integrated C, bus=usb-0000:00:14.0-7, version=0x00050b16, capabilities=0x84a00001, device_caps=0x04200001
+[12771.282841] video0: VIDIOC_S_FMT: type=vid-cap, width=640, height=480, pixelformat=YUYV, field=none, bytesperline=1280, sizeimage=614400, colorspace=8, flags=0x0, ycbcr_enc=1, quantization=0, xfer_func=1
+[12771.295359] video0: VIDIOC_S_PARM: type=vid-cap, capability=0x0, capturemode=0x0, timeperframe=1/30, extendedmode=0, readbuffers=0
+[12771.296050] videobuf2_common: [cap-00000000f84598f1] __setup_offsets: buffer 0, plane 0 offset 0x00000000
+[12771.296556] videobuf2_common: [cap-00000000f84598f1] __setup_offsets: buffer 1, plane 0 offset 0x00096000
+[12771.297047] videobuf2_common: [cap-00000000f84598f1] __setup_offsets: buffer 2, plane 0 offset 0x0012c000
+[12771.297535] videobuf2_common: [cap-00000000f84598f1] __setup_offsets: buffer 3, plane 0 offset 0x001c2000
+[12771.298941] videobuf2_common: [cap-00000000f84598f1] __setup_offsets: buffer 4, plane 0 offset 0x00258000
+[12771.299537] videobuf2_common: [cap-00000000f84598f1] __setup_offsets: buffer 5, plane 0 offset 0x002ee000
+[12771.300027] videobuf2_common: [cap-00000000f84598f1] __setup_offsets: buffer 6, plane 0 offset 0x00384000
+[12771.300384] videobuf2_common: [cap-00000000f84598f1] __setup_offsets: buffer 7, plane 0 offset 0x0041a000
+[12771.300716] videobuf2_common: [cap-00000000f84598f1] __setup_offsets: buffer 8, plane 0 offset 0x004b0000
+[12771.301108] videobuf2_common: [cap-00000000f84598f1] __setup_offsets: buffer 9, plane 0 offset 0x00546000
+[12771.301465] videobuf2_common: [cap-00000000f84598f1] __setup_offsets: buffer 10, plane 0 offset 0x005dc000
+[12771.301935] videobuf2_common: [cap-00000000f84598f1] __setup_offsets: buffer 11, plane 0 offset 0x00672000
+[12771.302420] videobuf2_common: [cap-00000000f84598f1] __setup_offsets: buffer 12, plane 0 offset 0x00708000
+[12771.302789] videobuf2_common: [cap-00000000f84598f1] __setup_offsets: buffer 13, plane 0 offset 0x0079e000
+[12771.303135] videobuf2_common: [cap-00000000f84598f1] __setup_offsets: buffer 14, plane 0 offset 0x00834000
+[12771.303145] videobuf2_common: [cap-00000000f84598f1] __vb2_queue_alloc: allocated 15 buffers, 1 plane(s) each
+[12771.303167] video0: VIDIOC_REQBUFS: count=15, type=vid-cap, memory=mmap
+[12771.303313] video0: VIDIOC_QUERYBUF: 00:00:00.000000000 index=0, type=vid-cap, request_fd=0, flags=0x00012000, field=any, sequence=0, memory=mmap, bytesused=0, offset/userptr=0x0, length=614400
+[12771.303364] timecode=00:00:00 type=0, flags=0x00000000, frames=0, userbits=0x00000000
+[12771.303541] videobuf2_common: [cap-00000000f84598f1] vb2_mmap: buffer 0, plane 0 successfully mapped
+[12771.303666] video0: VIDIOC_QUERYBUF: 00:00:00.000000000 index=1, type=vid-cap, request_fd=0, flags=0x00012000, field=any, sequence=0, memory=mmap, bytesused=0, offset/userptr=0x96000, length=614400
+[12771.303710] timecode=00:00:00 type=0, flags=0x00000000, frames=0, userbits=0x00000000
+[12771.303838] videobuf2_common: [cap-00000000f84598f1] vb2_mmap: buffer 1, plane 0 successfully mapped
+[12771.303929] video0: VIDIOC_QUERYBUF: 00:00:00.000000000 index=2, type=vid-cap, request_fd=0, flags=0x00012000, field=any, sequence=0, memory=mmap, bytesused=0, offset/userptr=0x12c000, length=614400
+[12771.303967] timecode=00:00:00 type=0, flags=0x00000000, frames=0, userbits=0x00000000
+[12771.304091] videobuf2_common: [cap-00000000f84598f1] vb2_mmap: buffer 2, plane 0 successfully mapped
+[12771.304176] video0: VIDIOC_QUERYBUF: 00:00:00.000000000 index=3, type=vid-cap, request_fd=0, flags=0x00012000, field=any, sequence=0, memory=mmap, bytesused=0, offset/userptr=0x1c2000, length=614400
+[12771.304210] timecode=00:00:00 type=0, flags=0x00000000, frames=0, userbits=0x00000000
+[12771.304332] videobuf2_common: [cap-00000000f84598f1] vb2_mmap: buffer 3, plane 0 successfully mapped
+[12771.304387] video0: VIDIOC_QUERYBUF: 00:00:00.000000000 index=4, type=vid-cap, request_fd=0, flags=0x00012000, field=any, sequence=0, memory=mmap, bytesused=0, offset/userptr=0x258000, length=614400
+[12771.304427] timecode=00:00:00 type=0, flags=0x00000000, frames=0, userbits=0x00000000
+[12771.304542] videobuf2_common: [cap-00000000f84598f1] vb2_mmap: buffer 4, plane 0 successfully mapped
+[12771.304596] video0: VIDIOC_QUERYBUF: 00:00:00.000000000 index=5, type=vid-cap, request_fd=0, flags=0x00012000, field=any, sequence=0, memory=mmap, bytesused=0, offset/userptr=0x2ee000, length=614400
+[12771.304631] timecode=00:00:00 type=0, flags=0x00000000, frames=0, userbits=0x00000000
+[12771.304741] videobuf2_common: [cap-00000000f84598f1] vb2_mmap: buffer 5, plane 0 successfully mapped
+[12771.304792] video0: VIDIOC_QUERYBUF: 00:00:00.000000000 index=6, type=vid-cap, request_fd=0, flags=0x00012000, field=any, sequence=0, memory=mmap, bytesused=0, offset/userptr=0x384000, length=614400
+[12771.304828] timecode=00:00:00 type=0, flags=0x00000000, frames=0, userbits=0x00000000
+[12771.304943] videobuf2_common: [cap-00000000f84598f1] vb2_mmap: buffer 6, plane 0 successfully mapped
+[12771.305032] video0: VIDIOC_QUERYBUF: 00:00:00.000000000 index=7, type=vid-cap, request_fd=0, flags=0x00012000, field=any, sequence=0, memory=mmap, bytesused=0, offset/userptr=0x41a000, length=614400
+[12771.305071] timecode=00:00:00 type=0, flags=0x00000000, frames=0, userbits=0x00000000
+[12771.305290] videobuf2_common: [cap-00000000f84598f1] vb2_mmap: buffer 7, plane 0 successfully mapped
+[12771.305472] video0: VIDIOC_QUERYBUF: 00:00:00.000000000 index=8, type=vid-cap, request_fd=0, flags=0x00012000, field=any, sequence=0, memory=mmap, bytesused=0, offset/userptr=0x4b0000, length=614400
+[12771.305520] timecode=00:00:00 type=0, flags=0x00000000, frames=0, userbits=0x00000000
+[12771.305772] videobuf2_common: [cap-00000000f84598f1] vb2_mmap: buffer 8, plane 0 successfully mapped
+[12771.305966] video0: VIDIOC_QUERYBUF: 00:00:00.000000000 index=9, type=vid-cap, request_fd=0, flags=0x00012000, field=any, sequence=0, memory=mmap, bytesused=0, offset/userptr=0x546000, length=614400
+[12771.306006] timecode=00:00:00 type=0, flags=0x00000000, frames=0, userbits=0x00000000
+[12771.306227] videobuf2_common: [cap-00000000f84598f1] vb2_mmap: buffer 9, plane 0 successfully mapped
+[12771.306412] video0: VIDIOC_QUERYBUF: 00:00:00.000000000 index=10, type=vid-cap, request_fd=0, flags=0x00012000, field=any, sequence=0, memory=mmap, bytesused=0, offset/userptr=0x5dc000, length=614400
+[12771.306450] timecode=00:00:00 type=0, flags=0x00000000, frames=0, userbits=0x00000000
+[12771.306594] videobuf2_common: [cap-00000000f84598f1] vb2_mmap: buffer 10, plane 0 successfully mapped
+[12771.306761] video0: VIDIOC_QUERYBUF: 00:00:00.000000000 index=11, type=vid-cap, request_fd=0, flags=0x00012000, field=any, sequence=0, memory=mmap, bytesused=0, offset/userptr=0x672000, length=614400
+[12771.306809] timecode=00:00:00 type=0, flags=0x00000000, frames=0, userbits=0x00000000
+[12771.306994] videobuf2_common: [cap-00000000f84598f1] vb2_mmap: buffer 11, plane 0 successfully mapped
+[12771.307094] video0: VIDIOC_QUERYBUF: 00:00:00.000000000 index=12, type=vid-cap, request_fd=0, flags=0x00012000, field=any, sequence=0, memory=mmap, bytesused=0, offset/userptr=0x708000, length=614400
+[12771.307127] timecode=00:00:00 type=0, flags=0x00000000, frames=0, userbits=0x00000000
+[12771.307239] videobuf2_common: [cap-00000000f84598f1] vb2_mmap: buffer 12, plane 0 successfully mapped
+[12771.307330] video0: VIDIOC_QUERYBUF: 00:00:00.000000000 index=13, type=vid-cap, request_fd=0, flags=0x00012000, field=any, sequence=0, memory=mmap, bytesused=0, offset/userptr=0x79e000, length=614400
+[12771.307365] timecode=00:00:00 type=0, flags=0x00000000, frames=0, userbits=0x00000000
+[12771.307497] videobuf2_common: [cap-00000000f84598f1] vb2_mmap: buffer 13, plane 0 successfully mapped
+[12771.307552] video0: VIDIOC_QUERYBUF: 00:00:00.000000000 index=14, type=vid-cap, request_fd=0, flags=0x00012000, field=any, sequence=0, memory=mmap, bytesused=0, offset/userptr=0x834000, length=614400
+[12771.307586] timecode=00:00:00 type=0, flags=0x00000000, frames=0, userbits=0x00000000
+[12771.307699] videobuf2_common: [cap-00000000f84598f1] vb2_mmap: buffer 14, plane 0 successfully mapped
+[12771.308186] videobuf2_common: [cap-00000000f84598f1] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[12771.308757] videobuf2_common: [cap-00000000f84598f1] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[12771.309367] videobuf2_common: [cap-00000000f84598f1] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[12771.310492] videobuf2_common: [cap-00000000f84598f1] vb2_core_qbuf: qbuf of buffer 3 succeeded
+[12771.311126] videobuf2_common: [cap-00000000f84598f1] vb2_core_qbuf: qbuf of buffer 4 succeeded
+[12771.311739] videobuf2_common: [cap-00000000f84598f1] vb2_core_qbuf: qbuf of buffer 5 succeeded
+[12771.312377] videobuf2_common: [cap-00000000f84598f1] vb2_core_qbuf: qbuf of buffer 6 succeeded
+[12771.313077] videobuf2_common: [cap-00000000f84598f1] vb2_core_qbuf: qbuf of buffer 7 succeeded
+[12771.313906] videobuf2_common: [cap-00000000f84598f1] vb2_core_qbuf: qbuf of buffer 8 succeeded
+[12771.314644] videobuf2_common: [cap-00000000f84598f1] vb2_core_qbuf: qbuf of buffer 9 succeeded
+[12771.315206] videobuf2_common: [cap-00000000f84598f1] vb2_core_qbuf: qbuf of buffer 10 succeeded
+[12771.316036] videobuf2_common: [cap-00000000f84598f1] vb2_core_qbuf: qbuf of buffer 11 succeeded
+[12771.316537] videobuf2_common: [cap-00000000f84598f1] vb2_core_qbuf: qbuf of buffer 12 succeeded
+[12771.317014] videobuf2_common: [cap-00000000f84598f1] vb2_core_qbuf: qbuf of buffer 13 succeeded
+[12771.317531] videobuf2_common: [cap-00000000f84598f1] vb2_core_qbuf: qbuf of buffer 14 succeeded
+[12771.319568] videobuf2_common: [cap-00000000f84598f1] __vb2_buf_mem_free: freed plane 0 of buffer 0
+[12771.319694] videobuf2_common: [cap-00000000f84598f1] __vb2_buf_mem_free: freed plane 0 of buffer 1
+[12771.319819] videobuf2_common: [cap-00000000f84598f1] __vb2_buf_mem_free: freed plane 0 of buffer 2
+[12771.319947] videobuf2_common: [cap-00000000f84598f1] __vb2_buf_mem_free: freed plane 0 of buffer 3
+[12771.320050] videobuf2_common: [cap-00000000f84598f1] __vb2_buf_mem_free: freed plane 0 of buffer 4
+[12771.320175] videobuf2_common: [cap-00000000f84598f1] __vb2_buf_mem_free: freed plane 0 of buffer 5
+[12771.320321] videobuf2_common: [cap-00000000f84598f1] __vb2_buf_mem_free: freed plane 0 of buffer 6
+[12771.320404] videobuf2_common: [cap-00000000f84598f1] __vb2_buf_mem_free: freed plane 0 of buffer 7
+[12771.320487] videobuf2_common: [cap-00000000f84598f1] __vb2_buf_mem_free: freed plane 0 of buffer 8
+[12771.320579] videobuf2_common: [cap-00000000f84598f1] __vb2_buf_mem_free: freed plane 0 of buffer 9
+[12771.320660] videobuf2_common: [cap-00000000f84598f1] __vb2_buf_mem_free: freed plane 0 of buffer 10
+[12771.320756] videobuf2_common: [cap-00000000f84598f1] __vb2_buf_mem_free: freed plane 0 of buffer 11
+[12771.320836] videobuf2_common: [cap-00000000f84598f1] __vb2_buf_mem_free: freed plane 0 of buffer 12
+[12771.320917] videobuf2_common: [cap-00000000f84598f1] __vb2_buf_mem_free: freed plane 0 of buffer 13
+[12771.321009] videobuf2_common: [cap-00000000f84598f1] __vb2_buf_mem_free: freed plane 0 of buffer 14
+
 */
 
 

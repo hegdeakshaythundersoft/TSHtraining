@@ -88,8 +88,48 @@ int main(int argc,char* argv[]){
 
 /*
 
+kernel space log:
 
 
+
+
+Calling the open function
+
+Video opened successfully
+
+In the open function : VIDEOC_QERYCAP
+Device /dev/video0 opened: Integrated Camera: Integrated C (usb-0000:00:14.0-7).
+
+SUCCESSFULLY OPENED
+
+Closed the sesion
+
+
+[12653.651126] video0: VIDIOC_QUERYCAP: driver=uvcvideo, card=Integrated Camera: Integrated C, bus=usb-0000:00:14.0-7, version=0x00050b16, capabilities=0x84a00001, device_caps=0x04200001
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+user space log:
 
 akshay@akshay-ThinkPad-L570-W10DG:~/video_module/akshay$ make
 gcc -Iinclude/linux    second_video_test.c   -o second_video_test
