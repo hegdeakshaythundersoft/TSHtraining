@@ -1,6 +1,6 @@
 commands : make 
 		./run.sh | tee log1.txt
-
+in run.sh file :./yavta --capture=90 -n 3 -s 640x480 -F $($(pwd)/file.h264) -f YUYV /dev/video0
 It generated .bin images = number of capture
 
 
