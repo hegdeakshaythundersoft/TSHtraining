@@ -4,6 +4,9 @@ in run.sh file :./yavta --capture=90 -n 3 -s 640x480 -F $($(pwd)/file.h264) -f Y
 It generated .bin images = number of capture
 
 
+./run.sh: line 8: /home/akshay/video_module/akshay/file.h264: No such file or directory
+
+
 Device /dev/video0 opened: Integrated Camera: Integrated C (usb-0000:00:14.0-7).
 Video format set: width: 640 height: 480 buffer size: 614400
 Video format: YUYV (56595559) 640x480
