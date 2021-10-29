@@ -1,0 +1,1078 @@
+
+Device /dev/video0 opened: Integrated Camera: Integrated C (usb-0000:00:14.0-7).
+Video format set: width: 640 height: 480 buffer size: 614400
+Video format: YUYV (56595559) 640x480
+3 buffers requested.
+length: 614400 offset: 0
+Buffer 0 mapped at address 0x7f0767ac2000.
+length: 614400 offset: 614400
+Buffer 1 mapped at address 0x7f0767a2c000.
+length: 614400 offset: 1228800
+Buffer 2 mapped at address 0x7f0767996000.
+0 (0) [-] 0 614400 bytes 4373.515724 1635490075.656119
+1 (1) [-] 1 614400 bytes 4373.783924 1635490075.687912
+2 (2) [-] 2 614400 bytes 4373.815791 1635490075.723846
+3 (0) [-] 3 614400 bytes 4373.851788 1635490075.755940
+4 (1) [-] 4 614400 bytes 4373.883807 1635490075.788053
+5 (2) [-] 5 614400 bytes 4373.915896 1635490075.823858
+6 (0) [-] 6 614400 bytes 4373.951767 1635490075.855990
+7 (1) [-] 7 614400 bytes 4373.983807 1635490075.887943
+8 (2) [-] 8 614400 bytes 4374.015819 1635490075.919939
+9 (0) [-] 9 614400 bytes 4374.047800 1635490075.955940
+10 (1) [-] 10 614400 bytes 4374.083779 1635490075.987985
+11 (2) [-] 11 614400 bytes 4374.115830 1635490076.019946
+12 (0) [-] 12 614400 bytes 4374.147781 1635490076.055959
+13 (1) [-] 13 614400 bytes 4374.183836 1635490076.087998
+14 (2) [-] 14 614400 bytes 4374.215833 1635490076.119994
+15 (0) [-] 15 614400 bytes 4374.247831 1635490076.151982
+16 (1) [-] 16 614400 bytes 4374.279790 1635490076.188007
+17 (2) [-] 17 614400 bytes 4374.315834 1635490076.219953
+18 (0) [-] 18 614400 bytes 4374.347787 1635490076.251934
+19 (1) [-] 19 614400 bytes 4374.379727 1635490076.287975
+20 (2) [-] 20 614400 bytes 4374.415837 1635490076.320001
+21 (0) [-] 21 614400 bytes 4374.447820 1635490076.351986
+22 (1) [-] 22 614400 bytes 4374.479848 1635490076.383934
+23 (2) [-] 23 614400 bytes 4374.511742 1635490076.419988
+24 (0) [-] 24 614400 bytes 4374.547820 1635490076.452050
+25 (1) [-] 25 614400 bytes 4374.579923 1635490076.484065
+26 (2) [-] 26 614400 bytes 4374.611892 1635490076.519803
+27 (0) [-] 27 614400 bytes 4374.647789 1635490076.552172
+28 (1) [-] 28 614400 bytes 4374.679961 1635490076.584061
+29 (2) [-] 29 614400 bytes 4374.711839 1635490076.615948
+30 (0) [-] 30 614400 bytes 4374.743794 1635490076.651944
+31 (1) [-] 31 614400 bytes 4374.779858 1635490076.683954
+32 (2) [-] 32 614400 bytes 4374.811889 1635490076.715864
+33 (0) [-] 33 614400 bytes 4374.843794 1635490076.752179
+34 (1) [-] 34 614400 bytes 4374.879976 1635490076.784054
+35 (2) [-] 35 614400 bytes 4374.911858 1635490076.815966
+36 (0) [-] 36 614400 bytes 4374.943828 1635490076.847878
+37 (1) [-] 37 614400 bytes 4374.975748 1635490076.883987
+38 (2) [-] 38 614400 bytes 4375.011837 1635490076.915940
+39 (0) [-] 39 614400 bytes 4375.043789 1635490076.947897
+40 (1) [-] 40 614400 bytes 4375.075768 1635490076.984004
+41 (2) [-] 41 614400 bytes 4375.111831 1635490077.015979
+42 (0) [-] 42 614400 bytes 4375.143844 1635490077.047960
+43 (1) [-] 43 614400 bytes 4375.175814 1635490077.079934
+44 (2) [-] 44 614400 bytes 4375.207807 1635490077.115961
+45 (0) [-] 45 614400 bytes 4375.243827 1635490077.147935
+46 (1) [-] 46 614400 bytes 4375.275804 1635490077.179884
+47 (2) [-] 47 614400 bytes 4375.307802 1635490077.215949
+48 (0) [-] 48 614400 bytes 4375.343823 1635490077.247923
+49 (1) [-] 49 614400 bytes 4375.375846 1635490077.279934
+50 (2) [-] 50 614400 bytes 4375.407791 1635490077.311903
+51 (0) [-] 51 614400 bytes 4375.439759 1635490077.347930
+52 (1) [-] 52 614400 bytes 4375.475848 1635490077.379899
+53 (2) [-] 53 614400 bytes 4375.507810 1635490077.411906
+54 (0) [-] 54 614400 bytes 4375.539772 1635490077.447931
+55 (1) [-] 55 614400 bytes 4375.575838 1635490077.479905
+56 (2) [-] 56 614400 bytes 4375.607845 1635490077.511931
+57 (0) [-] 57 614400 bytes 4375.639813 1635490077.543869
+58 (1) [-] 58 614400 bytes 4375.671754 1635490077.579936
+59 (2) [-] 59 614400 bytes 4375.707858 1635490077.611931
+60 (0) [-] 60 614400 bytes 4375.739864 1635490077.643882
+61 (1) [-] 61 614400 bytes 4375.771757 1635490077.679934
+62 (2) [-] 62 614400 bytes 4375.807789 1635490077.711933
+63 (0) [-] 63 614400 bytes 4375.839809 1635490077.743907
+64 (1) [-] 64 614400 bytes 4375.871793 1635490077.775895
+65 (2) [-] 65 614400 bytes 4375.903767 1635490077.811925
+66 (0) [-] 66 614400 bytes 4375.939806 1635490077.843956
+67 (1) [-] 67 614400 bytes 4375.971825 1635490077.875923
+68 (2) [-] 68 614400 bytes 4376.003789 1635490077.911914
+69 (0) [-] 69 614400 bytes 4376.039800 1635490077.943936
+70 (1) [-] 70 614400 bytes 4376.071869 1635490077.975951
+71 (2) [-] 71 614400 bytes 4376.103822 1635490078.007920
+72 (0) [-] 72 614400 bytes 4376.135790 1635490078.043915
+73 (1) [-] 73 614400 bytes 4376.171796 1635490078.075922
+74 (2) [-] 74 614400 bytes 4376.203816 1635490078.107871
+75 (0) [-] 75 614400 bytes 4376.235768 1635490078.143924
+76 (1) [-] 76 614400 bytes 4376.271852 1635490078.175947
+77 (2) [-] 77 614400 bytes 4376.303816 1635490078.207922
+78 (0) [-] 78 614400 bytes 4376.335807 1635490078.239976
+79 (1) [-] 79 614400 bytes 4376.367840 1635490078.275974
+80 (2) [-] 80 614400 bytes 4376.403873 1635490078.307936
+81 (0) [-] 81 614400 bytes 4376.435866 1635490078.339889
+82 (1) [-] 82 614400 bytes 4376.467830 1635490078.375931
+83 (2) [-] 83 614400 bytes 4376.503797 1635490078.407964
+84 (0) [-] 84 614400 bytes 4376.535857 1635490078.439973
+85 (1) [-] 85 614400 bytes 4376.567850 1635490078.472043
+86 (2) [-] 86 614400 bytes 4376.599856 1635490078.508060
+87 (0) [-] 87 614400 bytes 4376.635882 1635490078.539938
+88 (1) [-] 88 614400 bytes 4376.667869 1635490078.571977
+89 (2) [-] 89 614400 bytes 4376.699797 1635490078.607942
+Captured 89 frames in 2.953540 seconds (30.133332 fps, 18721940.451120 B/s).
+3 buffers released.
+
+
+[ 4373.219304] video0: VIDIOC_QUERYCAP: driver=uvcvideo, card=Integrated Camera: Integrated C, bus=usb-0000:00:14.0-7, version=0x00050b16, capabilities=0x84a00001, device_caps=0x04200001
+[ 4373.232653] video0: VIDIOC_S_FMT: type=vid-cap, width=640, height=480, pixelformat=YUYV, field=none, bytesperline=1280, sizeimage=614400, colorspace=8, flags=0x0, ycbcr_enc=1, quantization=0, xfer_func=1
+[ 4373.232779] video0: VIDIOC_G_FMT: type=vid-cap, width=640, height=480, pixelformat=YUYV, field=none, bytesperline=1280, sizeimage=614400, colorspace=8, flags=0x0, ycbcr_enc=1, quantization=0, xfer_func=1
+[ 4373.233135] videobuf2_common: [cap-00000000a6dde8ec] __setup_offsets: buffer 0, plane 0 offset 0x00000000
+[ 4373.233463] videobuf2_common: [cap-00000000a6dde8ec] __setup_offsets: buffer 1, plane 0 offset 0x00096000
+[ 4373.233763] videobuf2_common: [cap-00000000a6dde8ec] __setup_offsets: buffer 2, plane 0 offset 0x0012c000
+[ 4373.233774] videobuf2_common: [cap-00000000a6dde8ec] __vb2_queue_alloc: allocated 3 buffers, 1 plane(s) each
+[ 4373.233785] video0: VIDIOC_REQBUFS: count=3, type=vid-cap, memory=mmap
+[ 4373.233828] video0: VIDIOC_QUERYBUF: 00:00:00.000000000 index=0, type=vid-cap, request_fd=0, flags=0x00012000, field=any, sequence=0, memory=mmap, bytesused=0, offset/userptr=0x0, length=614400
+[ 4373.233868] timecode=00:00:00 type=0, flags=0x00000000, frames=0, userbits=0x00000000
+[ 4373.233994] videobuf2_common: [cap-00000000a6dde8ec] vb2_mmap: buffer 0, plane 0 successfully mapped
+[ 4373.234062] video0: VIDIOC_QUERYBUF: 00:00:00.000000000 index=1, type=vid-cap, request_fd=0, flags=0x00012000, field=any, sequence=0, memory=mmap, bytesused=0, offset/userptr=0x96000, length=614400
+[ 4373.234095] timecode=00:00:00 type=0, flags=0x00000000, frames=0, userbits=0x00000000
+[ 4373.234187] videobuf2_common: [cap-00000000a6dde8ec] vb2_mmap: buffer 1, plane 0 successfully mapped
+[ 4373.234205] video0: VIDIOC_QUERYBUF: 00:00:00.000000000 index=2, type=vid-cap, request_fd=0, flags=0x00012000, field=any, sequence=0, memory=mmap, bytesused=0, offset/userptr=0x12c000, length=614400
+[ 4373.234233] timecode=00:00:00 type=0, flags=0x00000000, frames=0, userbits=0x00000000
+[ 4373.234330] videobuf2_common: [cap-00000000a6dde8ec] vb2_mmap: buffer 2, plane 0 successfully mapped
+[ 4373.234865] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4373.235379] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4373.235862] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4373.239557] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_streamon: successful
+[ 4373.239574] video0: VIDIOC_STREAMON: type=vid-cap
+[ 4373.239616] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4373.512007] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4373.512028] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4373.513526] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4373.513550] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4373.543822] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4373.543849] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4373.545884] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4373.545912] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4373.579765] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4373.579787] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4373.581302] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4373.581328] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4373.611844] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4373.611873] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4373.613821] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4373.613851] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4373.643970] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4373.643991] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4373.645730] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4373.645763] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4373.679761] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4373.679789] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4373.681405] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4373.681473] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4373.711886] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4373.711916] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4373.713513] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4373.713543] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4373.743862] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4373.743882] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4373.745595] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4373.745619] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4373.775852] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4373.775873] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4373.777330] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4373.777350] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4373.811842] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4373.811868] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4373.813322] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4373.813348] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4373.843893] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4373.843916] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4373.845662] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4373.845694] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4373.875855] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4373.875878] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4373.877400] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4373.877429] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4373.911853] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4373.911886] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4373.913820] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4373.913850] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4373.943890] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4373.943917] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4373.945616] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4373.945646] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4373.975889] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4373.975917] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4373.977373] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4373.977393] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.007886] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.007911] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4374.009574] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4374.009598] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.043918] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.043939] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4374.045512] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4374.045539] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.075851] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.075879] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4374.077894] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4374.077923] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.107787] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.107860] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4374.109815] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4374.109850] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.143882] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.143903] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4374.145829] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4374.145864] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.175902] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.175926] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4374.177420] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4374.177441] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.207895] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.207915] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4374.209690] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4374.209722] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.239820] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.239857] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4374.241950] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4374.241982] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.275896] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.275917] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4374.277678] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4374.277705] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.307978] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.307989] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4374.308850] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4374.308863] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.339993] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.340004] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4374.340847] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4374.340860] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.375724] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.375738] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4374.376523] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4374.376534] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.408084] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.408101] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4374.409347] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4374.409370] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.439973] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.439990] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4374.441248] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4374.441269] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.471852] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.471871] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4374.473354] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4374.473380] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.507851] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.507872] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4374.509116] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4374.509137] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.539855] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.539877] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4374.541087] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4374.541104] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.571759] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.571781] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4374.573388] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4374.573410] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.608086] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.608103] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4374.609357] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4374.609379] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.639962] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.639979] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4374.641245] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4374.641267] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.671875] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.671892] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4374.673349] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4374.673375] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.703783] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.703802] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4374.705193] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4374.705218] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.739886] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.739907] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4374.741377] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4374.741401] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.771831] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.771857] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4374.773255] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4374.773277] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.803793] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.803815] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4374.805247] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4374.805270] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.839908] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.839926] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4374.841179] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4374.841196] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.871883] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.871899] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4374.873392] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4374.873412] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.903846] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.903875] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4374.905268] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4374.905289] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.935826] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.935849] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4374.937472] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4374.937501] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.971863] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.971880] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4374.973438] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4374.973473] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.003825] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.003849] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4375.005249] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4375.005275] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.035772] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.035795] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4375.037394] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4375.037425] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.071835] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.071858] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4375.073362] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4375.073386] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.103805] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.103835] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4375.105173] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4375.105198] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.135820] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.135845] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4375.137263] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4375.137285] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.167784] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.167809] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4375.169038] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4375.169060] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.203817] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.203840] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4375.205194] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4375.205219] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.235788] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.235810] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4375.237479] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4375.237511] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.267792] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.267814] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4375.269035] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4375.269058] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.303811] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.303839] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4375.305231] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4375.305259] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.335790] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.335814] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4375.337414] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4375.337445] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.367827] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.367844] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4375.369100] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4375.369122] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.399752] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.399775] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4375.401279] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4375.401306] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.435817] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.435841] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4375.437263] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4375.437290] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.467812] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.467835] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4375.469083] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4375.469105] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.499767] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.499788] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4375.501179] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4375.501206] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.535811] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.535835] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4375.537529] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4375.537555] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.567812] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.567836] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4375.569435] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4375.569459] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.599788] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.599810] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4375.601191] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4375.601224] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.631774] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.631797] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4375.633370] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4375.633393] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.667804] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.667826] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4375.669108] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4375.669130] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.699830] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.699854] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4375.701212] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4375.701244] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.731796] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.731821] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4375.733037] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4375.733059] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.767792] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.767813] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4375.769064] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4375.769086] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.799812] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.799834] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4375.801193] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4375.801220] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.831825] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.831848] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4375.833446] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4375.833470] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.863794] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.863818] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4375.865351] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4375.865376] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.899789] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.899812] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4375.901244] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4375.901274] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.931807] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.931824] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4375.933046] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4375.933068] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.963753] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.963771] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4375.965007] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4375.965030] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.999796] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.999818] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4376.001205] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4376.001233] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4376.031815] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4376.031840] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4376.033045] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4376.033066] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4376.063795] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4376.063817] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4376.065023] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4376.065043] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4376.095857] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4376.095874] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4376.097084] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4376.097105] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4376.131854] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4376.131871] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4376.133079] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4376.133100] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4376.163802] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4376.163824] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4376.165091] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4376.165116] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4376.195761] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4376.195783] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4376.197027] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4376.197052] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4376.231801] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4376.231823] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4376.233383] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4376.233407] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4376.263842] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4376.263859] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4376.265106] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4376.265125] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4376.295840] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4376.295862] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4376.297453] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4376.297478] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4376.327920] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4376.327937] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4376.329124] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4376.329140] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4376.363936] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4376.363952] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4376.365166] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4376.365182] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4376.395803] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4376.395826] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4376.397321] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4376.427849] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4376.427867] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4376.429177] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4376.429203] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4376.463807] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4376.463828] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4376.465547] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4376.466800] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_streamoff: successful
+[ 4376.466826] video0: VIDIOC_STREAMOFF: type=vid-cap
+[ 4376.467534] videobuf2_common: [cap-00000000a6dde8ec] __vb2_buf_mem_free: freed plane 0 of buffer 0
+[ 4376.467627] videobuf2_common: [cap-00000000a6dde8ec] __vb2_buf_mem_free: freed plane 0 of buffer 1
+[ 4376.467779] videobuf2_common: [cap-00000000a6dde8ec] __vb2_buf_mem_free: freed plane 0 of buffer 2
+[ 4376.467793] video0: VIDIOC_REQBUFS: count=0, type=vid-cap, memory=mmap
+
+
+
+
+
+
+
+FROM COMMAND LINE :
+
+
+run command : ./yavta --capture=90 -n 3 -s 640x480 -F $($(pwd)/file.h264) -f YUYV /dev/video0
+
+
+
+
+.bin images generated : 
+
+akshay@akshay-ThinkPad-L570-W10DG:~/video_module/status/yavta_new$ ls /dev/shm/
+capture.output-000000.bin  capture.output-000023.bin  capture.output-000046.bin  capture.output-000069.bin
+capture.output-000001.bin  capture.output-000024.bin  capture.output-000047.bin  capture.output-000070.bin
+capture.output-000002.bin  capture.output-000025.bin  capture.output-000048.bin  capture.output-000071.bin
+capture.output-000003.bin  capture.output-000026.bin  capture.output-000049.bin  capture.output-000072.bin
+capture.output-000004.bin  capture.output-000027.bin  capture.output-000050.bin  capture.output-000073.bin
+capture.output-000005.bin  capture.output-000028.bin  capture.output-000051.bin  capture.output-000074.bin
+capture.output-000006.bin  capture.output-000029.bin  capture.output-000052.bin  capture.output-000075.bin
+capture.output-000007.bin  capture.output-000030.bin  capture.output-000053.bin  capture.output-000076.bin
+capture.output-000008.bin  capture.output-000031.bin  capture.output-000054.bin  capture.output-000077.bin
+capture.output-000009.bin  capture.output-000032.bin  capture.output-000055.bin  capture.output-000078.bin
+capture.output-000010.bin  capture.output-000033.bin  capture.output-000056.bin  capture.output-000079.bin
+capture.output-000011.bin  capture.output-000034.bin  capture.output-000057.bin  capture.output-000080.bin
+capture.output-000012.bin  capture.output-000035.bin  capture.output-000058.bin  capture.output-000081.bin
+capture.output-000013.bin  capture.output-000036.bin  capture.output-000059.bin  capture.output-000082.bin
+capture.output-000014.bin  capture.output-000037.bin  capture.output-000060.bin  capture.output-000083.bin
+capture.output-000015.bin  capture.output-000038.bin  capture.output-000061.bin  capture.output-000084.bin
+capture.output-000016.bin  capture.output-000039.bin  capture.output-000062.bin  capture.output-000085.bin
+capture.output-000017.bin  capture.output-000040.bin  capture.output-000063.bin  capture.output-000086.bin
+capture.output-000018.bin  capture.output-000041.bin  capture.output-000064.bin  capture.output-000087.bin
+capture.output-000019.bin  capture.output-000042.bin  capture.output-000065.bin  capture.output-000088.bin
+capture.output-000020.bin  capture.output-000043.bin  capture.output-000066.bin  capture.output-000089.bin
+capture.output-000021.bin  capture.output-000044.bin  capture.output-000067.bin
+capture.output-000022.bin  capture.output-000045.bin  capture.output-000068.bin
+[2]+  Done                    gedit yavtalog.txt
+akshay@akshay-ThinkPad-L570-W10DG:~/video_module/status/yavta_new$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+akshay@akshay-ThinkPad-L570-W10DG:~/video_module/status/yavta_new$ make
+gcc -O2 -W -Wall -c -o yavta.o yavta.c
+gcc  -o yavta yavta.o
+akshay@akshay-ThinkPad-L570-W10DG:~/video_module/status/yavta_new$ ./run.sh | tee yavtalog.txt
+
+[sudo] password for akshay: 
+./run.sh: line 6: V4L2: command not found
+./run.sh: line 7: -: command not found
+./run.sh: line 8: /home/akshay/video_module/status/yavta_new/file.h264: Permission denied
+Device /dev/video0 opened: Integrated Camera: Integrated C (usb-0000:00:14.0-7).
+Video format set: width: 640 height: 480 buffer size: 614400
+Video format: YUYV (56595559) 640x480
+3 buffers requested.
+length: 614400 offset: 0
+Buffer 0 mapped at address 0x7f0767ac2000.
+length: 614400 offset: 614400
+Buffer 1 mapped at address 0x7f0767a2c000.
+length: 614400 offset: 1228800
+Buffer 2 mapped at address 0x7f0767996000.
+0 (0) [-] 0 614400 bytes 4373.515724 1635490075.656119
+1 (1) [-] 1 614400 bytes 4373.783924 1635490075.687912
+2 (2) [-] 2 614400 bytes 4373.815791 1635490075.723846
+3 (0) [-] 3 614400 bytes 4373.851788 1635490075.755940
+4 (1) [-] 4 614400 bytes 4373.883807 1635490075.788053
+5 (2) [-] 5 614400 bytes 4373.915896 1635490075.823858
+6 (0) [-] 6 614400 bytes 4373.951767 1635490075.855990
+7 (1) [-] 7 614400 bytes 4373.983807 1635490075.887943
+8 (2) [-] 8 614400 bytes 4374.015819 1635490075.919939
+9 (0) [-] 9 614400 bytes 4374.047800 1635490075.955940
+10 (1) [-] 10 614400 bytes 4374.083779 1635490075.987985
+11 (2) [-] 11 614400 bytes 4374.115830 1635490076.019946
+12 (0) [-] 12 614400 bytes 4374.147781 1635490076.055959
+13 (1) [-] 13 614400 bytes 4374.183836 1635490076.087998
+14 (2) [-] 14 614400 bytes 4374.215833 1635490076.119994
+15 (0) [-] 15 614400 bytes 4374.247831 1635490076.151982
+16 (1) [-] 16 614400 bytes 4374.279790 1635490076.188007
+17 (2) [-] 17 614400 bytes 4374.315834 1635490076.219953
+18 (0) [-] 18 614400 bytes 4374.347787 1635490076.251934
+19 (1) [-] 19 614400 bytes 4374.379727 1635490076.287975
+20 (2) [-] 20 614400 bytes 4374.415837 1635490076.320001
+21 (0) [-] 21 614400 bytes 4374.447820 1635490076.351986
+22 (1) [-] 22 614400 bytes 4374.479848 1635490076.383934
+23 (2) [-] 23 614400 bytes 4374.511742 1635490076.419988
+24 (0) [-] 24 614400 bytes 4374.547820 1635490076.452050
+25 (1) [-] 25 614400 bytes 4374.579923 1635490076.484065
+26 (2) [-] 26 614400 bytes 4374.611892 1635490076.519803
+27 (0) [-] 27 614400 bytes 4374.647789 1635490076.552172
+28 (1) [-] 28 614400 bytes 4374.679961 1635490076.584061
+29 (2) [-] 29 614400 bytes 4374.711839 1635490076.615948
+30 (0) [-] 30 614400 bytes 4374.743794 1635490076.651944
+31 (1) [-] 31 614400 bytes 4374.779858 1635490076.683954
+32 (2) [-] 32 614400 bytes 4374.811889 1635490076.715864
+33 (0) [-] 33 614400 bytes 4374.843794 1635490076.752179
+34 (1) [-] 34 614400 bytes 4374.879976 1635490076.784054
+35 (2) [-] 35 614400 bytes 4374.911858 1635490076.815966
+36 (0) [-] 36 614400 bytes 4374.943828 1635490076.847878
+37 (1) [-] 37 614400 bytes 4374.975748 1635490076.883987
+38 (2) [-] 38 614400 bytes 4375.011837 1635490076.915940
+39 (0) [-] 39 614400 bytes 4375.043789 1635490076.947897
+40 (1) [-] 40 614400 bytes 4375.075768 1635490076.984004
+41 (2) [-] 41 614400 bytes 4375.111831 1635490077.015979
+42 (0) [-] 42 614400 bytes 4375.143844 1635490077.047960
+43 (1) [-] 43 614400 bytes 4375.175814 1635490077.079934
+44 (2) [-] 44 614400 bytes 4375.207807 1635490077.115961
+45 (0) [-] 45 614400 bytes 4375.243827 1635490077.147935
+46 (1) [-] 46 614400 bytes 4375.275804 1635490077.179884
+47 (2) [-] 47 614400 bytes 4375.307802 1635490077.215949
+48 (0) [-] 48 614400 bytes 4375.343823 1635490077.247923
+49 (1) [-] 49 614400 bytes 4375.375846 1635490077.279934
+50 (2) [-] 50 614400 bytes 4375.407791 1635490077.311903
+51 (0) [-] 51 614400 bytes 4375.439759 1635490077.347930
+52 (1) [-] 52 614400 bytes 4375.475848 1635490077.379899
+53 (2) [-] 53 614400 bytes 4375.507810 1635490077.411906
+54 (0) [-] 54 614400 bytes 4375.539772 1635490077.447931
+55 (1) [-] 55 614400 bytes 4375.575838 1635490077.479905
+56 (2) [-] 56 614400 bytes 4375.607845 1635490077.511931
+57 (0) [-] 57 614400 bytes 4375.639813 1635490077.543869
+58 (1) [-] 58 614400 bytes 4375.671754 1635490077.579936
+59 (2) [-] 59 614400 bytes 4375.707858 1635490077.611931
+60 (0) [-] 60 614400 bytes 4375.739864 1635490077.643882
+61 (1) [-] 61 614400 bytes 4375.771757 1635490077.679934
+62 (2) [-] 62 614400 bytes 4375.807789 1635490077.711933
+63 (0) [-] 63 614400 bytes 4375.839809 1635490077.743907
+64 (1) [-] 64 614400 bytes 4375.871793 1635490077.775895
+65 (2) [-] 65 614400 bytes 4375.903767 1635490077.811925
+66 (0) [-] 66 614400 bytes 4375.939806 1635490077.843956
+67 (1) [-] 67 614400 bytes 4375.971825 1635490077.875923
+68 (2) [-] 68 614400 bytes 4376.003789 1635490077.911914
+69 (0) [-] 69 614400 bytes 4376.039800 1635490077.943936
+70 (1) [-] 70 614400 bytes 4376.071869 1635490077.975951
+71 (2) [-] 71 614400 bytes 4376.103822 1635490078.007920
+72 (0) [-] 72 614400 bytes 4376.135790 1635490078.043915
+73 (1) [-] 73 614400 bytes 4376.171796 1635490078.075922
+74 (2) [-] 74 614400 bytes 4376.203816 1635490078.107871
+75 (0) [-] 75 614400 bytes 4376.235768 1635490078.143924
+76 (1) [-] 76 614400 bytes 4376.271852 1635490078.175947
+77 (2) [-] 77 614400 bytes 4376.303816 1635490078.207922
+78 (0) [-] 78 614400 bytes 4376.335807 1635490078.239976
+79 (1) [-] 79 614400 bytes 4376.367840 1635490078.275974
+80 (2) [-] 80 614400 bytes 4376.403873 1635490078.307936
+81 (0) [-] 81 614400 bytes 4376.435866 1635490078.339889
+82 (1) [-] 82 614400 bytes 4376.467830 1635490078.375931
+83 (2) [-] 83 614400 bytes 4376.503797 1635490078.407964
+84 (0) [-] 84 614400 bytes 4376.535857 1635490078.439973
+85 (1) [-] 85 614400 bytes 4376.567850 1635490078.472043
+86 (2) [-] 86 614400 bytes 4376.599856 1635490078.508060
+87 (0) [-] 87 614400 bytes 4376.635882 1635490078.539938
+88 (1) [-] 88 614400 bytes 4376.667869 1635490078.571977
+89 (2) [-] 89 614400 bytes 4376.699797 1635490078.607942
+Captured 89 frames in 2.953540 seconds (30.133332 fps, 18721940.451120 B/s).
+3 buffers released.
+
+
+[ 4373.219304] video0: VIDIOC_QUERYCAP: driver=uvcvideo, card=Integrated Camera: Integrated C, bus=usb-0000:00:14.0-7, version=0x00050b16, capabilities=0x84a00001, device_caps=0x04200001
+[ 4373.232653] video0: VIDIOC_S_FMT: type=vid-cap, width=640, height=480, pixelformat=YUYV, field=none, bytesperline=1280, sizeimage=614400, colorspace=8, flags=0x0, ycbcr_enc=1, quantization=0, xfer_func=1
+[ 4373.232779] video0: VIDIOC_G_FMT: type=vid-cap, width=640, height=480, pixelformat=YUYV, field=none, bytesperline=1280, sizeimage=614400, colorspace=8, flags=0x0, ycbcr_enc=1, quantization=0, xfer_func=1
+[ 4373.233135] videobuf2_common: [cap-00000000a6dde8ec] __setup_offsets: buffer 0, plane 0 offset 0x00000000
+[ 4373.233463] videobuf2_common: [cap-00000000a6dde8ec] __setup_offsets: buffer 1, plane 0 offset 0x00096000
+[ 4373.233763] videobuf2_common: [cap-00000000a6dde8ec] __setup_offsets: buffer 2, plane 0 offset 0x0012c000
+[ 4373.233774] videobuf2_common: [cap-00000000a6dde8ec] __vb2_queue_alloc: allocated 3 buffers, 1 plane(s) each
+[ 4373.233785] video0: VIDIOC_REQBUFS: count=3, type=vid-cap, memory=mmap
+[ 4373.233828] video0: VIDIOC_QUERYBUF: 00:00:00.000000000 index=0, type=vid-cap, request_fd=0, flags=0x00012000, field=any, sequence=0, memory=mmap, bytesused=0, offset/userptr=0x0, length=614400
+[ 4373.233868] timecode=00:00:00 type=0, flags=0x00000000, frames=0, userbits=0x00000000
+[ 4373.233994] videobuf2_common: [cap-00000000a6dde8ec] vb2_mmap: buffer 0, plane 0 successfully mapped
+[ 4373.234062] video0: VIDIOC_QUERYBUF: 00:00:00.000000000 index=1, type=vid-cap, request_fd=0, flags=0x00012000, field=any, sequence=0, memory=mmap, bytesused=0, offset/userptr=0x96000, length=614400
+[ 4373.234095] timecode=00:00:00 type=0, flags=0x00000000, frames=0, userbits=0x00000000
+[ 4373.234187] videobuf2_common: [cap-00000000a6dde8ec] vb2_mmap: buffer 1, plane 0 successfully mapped
+[ 4373.234205] video0: VIDIOC_QUERYBUF: 00:00:00.000000000 index=2, type=vid-cap, request_fd=0, flags=0x00012000, field=any, sequence=0, memory=mmap, bytesused=0, offset/userptr=0x12c000, length=614400
+[ 4373.234233] timecode=00:00:00 type=0, flags=0x00000000, frames=0, userbits=0x00000000
+[ 4373.234330] videobuf2_common: [cap-00000000a6dde8ec] vb2_mmap: buffer 2, plane 0 successfully mapped
+[ 4373.234865] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4373.235379] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4373.235862] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4373.239557] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_streamon: successful
+[ 4373.239574] video0: VIDIOC_STREAMON: type=vid-cap
+[ 4373.239616] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4373.512007] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4373.512028] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4373.513526] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4373.513550] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4373.543822] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4373.543849] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4373.545884] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4373.545912] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4373.579765] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4373.579787] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4373.581302] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4373.581328] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4373.611844] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4373.611873] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4373.613821] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4373.613851] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4373.643970] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4373.643991] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4373.645730] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4373.645763] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4373.679761] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4373.679789] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4373.681405] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4373.681473] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4373.711886] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4373.711916] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4373.713513] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4373.713543] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4373.743862] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4373.743882] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4373.745595] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4373.745619] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4373.775852] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4373.775873] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4373.777330] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4373.777350] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4373.811842] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4373.811868] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4373.813322] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4373.813348] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4373.843893] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4373.843916] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4373.845662] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4373.845694] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4373.875855] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4373.875878] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4373.877400] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4373.877429] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4373.911853] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4373.911886] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4373.913820] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4373.913850] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4373.943890] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4373.943917] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4373.945616] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4373.945646] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4373.975889] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4373.975917] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4373.977373] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4373.977393] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.007886] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.007911] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4374.009574] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4374.009598] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.043918] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.043939] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4374.045512] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4374.045539] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.075851] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.075879] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4374.077894] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4374.077923] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.107787] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.107860] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4374.109815] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4374.109850] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.143882] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.143903] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4374.145829] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4374.145864] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.175902] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.175926] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4374.177420] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4374.177441] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.207895] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.207915] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4374.209690] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4374.209722] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.239820] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.239857] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4374.241950] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4374.241982] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.275896] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.275917] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4374.277678] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4374.277705] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.307978] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.307989] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4374.308850] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4374.308863] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.339993] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.340004] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4374.340847] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4374.340860] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.375724] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.375738] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4374.376523] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4374.376534] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.408084] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.408101] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4374.409347] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4374.409370] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.439973] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.439990] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4374.441248] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4374.441269] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.471852] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.471871] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4374.473354] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4374.473380] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.507851] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.507872] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4374.509116] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4374.509137] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.539855] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.539877] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4374.541087] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4374.541104] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.571759] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.571781] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4374.573388] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4374.573410] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.608086] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.608103] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4374.609357] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4374.609379] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.639962] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.639979] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4374.641245] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4374.641267] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.671875] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.671892] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4374.673349] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4374.673375] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.703783] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.703802] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4374.705193] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4374.705218] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.739886] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.739907] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4374.741377] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4374.741401] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.771831] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.771857] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4374.773255] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4374.773277] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.803793] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.803815] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4374.805247] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4374.805270] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.839908] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.839926] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4374.841179] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4374.841196] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.871883] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.871899] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4374.873392] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4374.873412] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.903846] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.903875] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4374.905268] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4374.905289] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.935826] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.935849] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4374.937472] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4374.937501] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4374.971863] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4374.971880] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4374.973438] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4374.973473] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.003825] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.003849] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4375.005249] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4375.005275] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.035772] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.035795] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4375.037394] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4375.037425] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.071835] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.071858] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4375.073362] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4375.073386] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.103805] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.103835] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4375.105173] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4375.105198] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.135820] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.135845] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4375.137263] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4375.137285] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.167784] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.167809] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4375.169038] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4375.169060] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.203817] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.203840] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4375.205194] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4375.205219] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.235788] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.235810] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4375.237479] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4375.237511] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.267792] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.267814] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4375.269035] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4375.269058] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.303811] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.303839] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4375.305231] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4375.305259] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.335790] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.335814] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4375.337414] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4375.337445] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.367827] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.367844] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4375.369100] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4375.369122] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.399752] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.399775] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4375.401279] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4375.401306] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.435817] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.435841] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4375.437263] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4375.437290] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.467812] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.467835] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4375.469083] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4375.469105] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.499767] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.499788] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4375.501179] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4375.501206] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.535811] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.535835] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4375.537529] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4375.537555] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.567812] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.567836] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4375.569435] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4375.569459] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.599788] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.599810] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4375.601191] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4375.601224] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.631774] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.631797] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4375.633370] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4375.633393] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.667804] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.667826] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4375.669108] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4375.669130] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.699830] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.699854] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4375.701212] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4375.701244] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.731796] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.731821] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4375.733037] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4375.733059] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.767792] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.767813] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4375.769064] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4375.769086] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.799812] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.799834] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4375.801193] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4375.801220] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.831825] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.831848] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4375.833446] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4375.833470] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.863794] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.863818] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4375.865351] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4375.865376] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.899789] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.899812] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4375.901244] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4375.901274] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.931807] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.931824] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4375.933046] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4375.933068] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.963753] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.963771] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4375.965007] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4375.965030] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4375.999796] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4375.999818] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4376.001205] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4376.001233] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4376.031815] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4376.031840] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4376.033045] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4376.033066] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4376.063795] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4376.063817] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4376.065023] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4376.065043] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4376.095857] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4376.095874] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4376.097084] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4376.097105] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4376.131854] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4376.131871] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4376.133079] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4376.133100] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4376.163802] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4376.163824] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4376.165091] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4376.165116] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4376.195761] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4376.195783] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4376.197027] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4376.197052] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4376.231801] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4376.231823] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4376.233383] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4376.233407] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4376.263842] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4376.263859] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4376.265106] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4376.265125] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4376.295840] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4376.295862] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4376.297453] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 0 succeeded
+[ 4376.297478] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4376.327920] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4376.327937] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4376.329124] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4376.329140] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4376.363936] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4376.363952] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4376.365166] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4376.365182] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4376.395803] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4376.395826] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 0, state: dequeued
+[ 4376.397321] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4376.427849] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4376.427867] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 1, state: dequeued
+[ 4376.429177] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 1 succeeded
+[ 4376.429203] videobuf2_common: [cap-00000000a6dde8ec] __vb2_wait_for_done_vb: will sleep waiting for buffers
+[ 4376.463807] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: returning done buffer
+[ 4376.463828] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_dqbuf: dqbuf of buffer 2, state: dequeued
+[ 4376.465547] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_qbuf: qbuf of buffer 2 succeeded
+[ 4376.466800] videobuf2_common: [cap-00000000a6dde8ec] vb2_core_streamoff: successful
+[ 4376.466826] video0: VIDIOC_STREAMOFF: type=vid-cap
+[ 4376.467534] videobuf2_common: [cap-00000000a6dde8ec] __vb2_buf_mem_free: freed plane 0 of buffer 0
+[ 4376.467627] videobuf2_common: [cap-00000000a6dde8ec] __vb2_buf_mem_free: freed plane 0 of buffer 1
+[ 4376.467779] videobuf2_common: [cap-00000000a6dde8ec] __vb2_buf_mem_free: freed plane 0 of buffer 2
+[ 4376.467793] video0: VIDIOC_REQBUFS: count=0, type=vid-cap, memory=mmap
+akshay@akshay-ThinkPad-L570-W10DG:~/video_module/status/yavta_new$ ls
+352x288Foreman.264  file.h264  log.txt   README.md            video_encode    yavta         yavta.o
+COPYING.GPL         isp        Makefile  run.sh               video_render    yavta.c
+file                log1.txt   msg.txt   videodev2-fsr172x.h  video_splitter  yavtalog.txt
+akshay@akshay-ThinkPad-L570-W10DG:~/video_module/status/yavta_new$ 
+
+
+
+
